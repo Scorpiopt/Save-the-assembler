@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>SavetheAssembler</name>
+	<author>Scorpio</author>
+	<supportedVersions>
+		<li>1.3</li>
+	</supportedVersions>
+	<packageId>scorpio.savetheassembler</packageId>
+	<description>
+The new VEM integration removed the assembler i decided to save the little one .
+Thanks to ISOREX for the help with this
+All credits go to the original creators 
+	</description>
+</ModMetaData>
